@@ -7,10 +7,16 @@
 나무위키에 정리되어있는 데이터를 Web Crawling 기법으로 수집했습니다.
 
 
+
 추후 공식 데이터가 확인되면, 수정 예정입니다.
 
 # 🛠️ Tools
 ## 사용된 주요 라이브러리
-pandas
 
-bs4
+```python
+import pandas as pd
+```
+
+```python
+from bs4 import BeautifulSoup
+```
