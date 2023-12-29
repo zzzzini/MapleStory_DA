@@ -14,6 +14,8 @@
 
 경험치 정보 수집 : 👉🏻 나무위키 [[메이플스토리/시스템/경험치]](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%8B%9C%EC%8A%A4%ED%85%9C/%EA%B2%BD%ED%97%98%EC%B9%98) 문서 Crawling
 
+어센틱포스 정보 수집 : 👉🏻 나무위키 [[어센틱포스]](https://namu.wiki/w/%EC%96%B4%EC%84%BC%ED%8B%B1%ED%8F%AC%EC%8A%A4) 문서 Crawling
+
 캐릭터의 레벨 및 기타 정보 수집 : NEXON Open API
 
 데이터 분석 : Python
