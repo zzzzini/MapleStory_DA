@@ -21,7 +21,3 @@
 ```python
 import pandas as pd
 ```
-
-```python
-from bs4 import BeautifulSoup
-```
