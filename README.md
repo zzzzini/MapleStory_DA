@@ -28,8 +28,8 @@
 
 ## 📚 참고 문헌
 
-👉🏻 [Amplitude Co.] Mastering Retention Playbook
-
 👉🏻 [한국컴퓨터정보학회 하계학술대회 논문집 제 31권 2호] 국내 PC MMORPG 게임의 이용자 감소 현상에 대한 연구 - 윤준, 이종원(2023)
+
+👉🏻 [Mastering Retention Playbook] - Amplitude Co.
 
 👉🏻 메이플 인벤 자유게시판
