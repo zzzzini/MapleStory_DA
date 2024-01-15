@@ -12,13 +12,13 @@
 해당 구간을 적절히 조정하거나, 필요한 요소를 제공하는 새로운 컨텐츠를 출시하면 좋을 것 같다 생각했습니다.
 
 ## 🛠️ How?
-전체월드(리부트, 버닝 제외)의 캐릭터 닉네임 수집 👉🏻 메이플스토리 공식 홈페이지 [[월드 랭킹]](https://maplestory.nexon.com/N23Ranking/World/Total) 항목 Crawling
+전체월드(리부트, 버닝 제외)의 캐릭터 레벨, 닉네임 수집 👉🏻 메이플스토리 공식 홈페이지 [[월드 랭킹]](https://maplestory.nexon.com/N23Ranking/World/Total) 항목 Crawling
 
 경험치 정보 수집 👉🏻 나무위키 [[메이플스토리/시스템/경험치]](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%8B%9C%EC%8A%A4%ED%85%9C/%EA%B2%BD%ED%97%98%EC%B9%98) 문서 Crawling
 
 어센틱포스 정보 수집 👉🏻 나무위키 [[어센틱포스]](https://namu.wiki/w/%EC%96%B4%EC%84%BC%ED%8B%B1%ED%8F%AC%EC%8A%A4) 문서 Crawling
 
-캐릭터의 레벨 및 기타 정보 수집 👉🏻 NEXON Open API [[메이플스토리]](https://openapi.nexon.com/game/maplestory/?id=22) 캐릭터 식별자, 장착 심볼 정보 조회
+캐릭터 ocid 및 장착 심볼 정보 수집 👉🏻 NEXON Open API [[메이플스토리]](https://openapi.nexon.com/game/maplestory/?id=22) 캐릭터 식별자, 장착 심볼 정보 조회
 
 일일퀘스트 경험치 정보 수집 👉🏻 메이플 인벤 [[일일퀘스트 클리어 경험치 표]](https://www.inven.co.kr/board/maple/2304/34182) 글 참고
 
